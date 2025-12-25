@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2025-12-25",
+  "articles": [
+    {
+      "id": "save-001",
+      "title": "Start with a simple 50/30/20 rule",
+      "readingTime": "3 min",
+      "tags": ["budget", "basics"],
+      "body": "Split your income: 50% needs, 30% wants, 20% savings. If 20% is too hard, start with 5% and increase monthly."
+    },
+    {
+      "id": "save-002",
+      "title": "Create an emergency buffer first",
+      "readingTime": "4 min",
+      "tags": ["emergency", "safety"],
+      "body": "Aim for 1 month of essential expenses, then grow to 3 months. This reduces the need for loans in stressful moments."
+    },
+    {
+      "id": "save-003",
+      "title": "Automate savings on payday",
+      "readingTime": "2 min",
+      "tags": ["automation"],
+      "body": "Set an automatic transfer right after salary arrives. Automation beats motivation."
+    }
+  ]
+}
