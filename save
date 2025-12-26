@@ -1,26 +1,110 @@
 {
-  "updatedAt": "2025-12-25",
+  "updatedAt": "2025-12-26",
   "articles": [
     {
       "id": "save-001",
       "title": "Start with a simple 50/30/20 rule",
-      "readingTime": "3 min",
+      "readingTime": "5 min",
       "tags": ["budget", "basics"],
-      "body": "Split your income: 50% needs, 30% wants, 20% savings. If 20% is too hard, start with 5% and increase monthly."
+      "body": "The 50/30/20 rule is a simple way to see where your money should go each month. The idea is: 50% for needs (rent, groceries, utilities), 30% for wants (eating out, subscriptions, hobbies), and 20% for savings and debt goals.\n\nStep 1: Calculate your monthly take-home income (money that arrives to your account after taxes). If your income changes, use an average from the last 3 months.\n\nStep 2: List your needs. A “need” is something you must pay to keep your life stable: housing, basic food, transport to work, phone/internet, and minimum debt payments.\n\nStep 3: List wants. These are nice-to-have expenses that you can reduce without breaking your life. This category is where most people find quick savings.\n\nStep 4: Put at least something into savings. If 20% is too hard today, start with 5% or 10%. The rule still works because it gives you a target and a structure.\n\nTip: Use the rule as a direction, not a strict law. If your rent is high and needs take 60%, don’t give up. Focus on reducing wants and building a small savings habit first.\n\nGoal: after 2–3 months you should clearly see what to cut, what to keep, and how much you can save without feeling stressed."
     },
     {
       "id": "save-002",
-      "title": "Create an emergency buffer first",
-      "readingTime": "4 min",
-      "tags": ["emergency", "safety"],
-      "body": "Aim for 1 month of essential expenses, then grow to 3 months. This reduces the need for loans in stressful moments."
+      "title": "Create an emergency buffer before investing",
+      "readingTime": "6 min",
+      "tags": ["emergency", "safety", "basics"],
+      "body": "Before you invest or take a loan, build an emergency buffer. This is a separate pot of money that protects you from unexpected situations: medical bills, urgent travel, broken phone, job delays, or sudden repair costs.\n\nWhy it matters: without a buffer, every surprise becomes a crisis. People often take expensive loans not because they want to, but because they have no cash when a problem happens.\n\nStep 1: Define your “essential expenses.” Add up rent/mortgage, basic food, utilities, transport, and minimum debt payments.\n\nStep 2: Set the first target: 1 month of essential expenses. If that number is too big, start with a smaller milestone like 200–500 EUR. Early wins matter.\n\nStep 3: Choose where to keep it. Use a separate savings account so you don’t accidentally spend it. Keep it accessible, but not too easy to touch.\n\nStep 4: Automate it (even small). A consistent 20–50 EUR every payday is better than random big deposits.\n\nStep 5: Grow from 1 month to 3 months. Three months gives most people real stability.\n\nRule: Only use this buffer for real emergencies. Not for discounts, not for parties, not for “I deserve it.”\n\nWhen the buffer is ready, you can start saving for goals or investing with less stress and fewer financial mistakes."
     },
     {
       "id": "save-003",
       "title": "Automate savings on payday",
-      "readingTime": "2 min",
-      "tags": ["automation"],
-      "body": "Set an automatic transfer right after salary arrives. Automation beats motivation."
+      "readingTime": "5 min",
+      "tags": ["automation", "habits", "basics"],
+      "body": "Automation is one of the strongest saving tools because it removes decision-making. If you wait until the end of the month, you usually save what is left. If you automate on payday, you save first.\n\nStep 1: Pick a percentage or a fixed amount. Start small (5–10% or 25–50 EUR). The goal is to make it sustainable.\n\nStep 2: Set an automatic transfer on the day your salary arrives (or the next morning). Move money from your main account to a savings account.\n\nStep 3: Label your savings account. Example: “Emergency Buffer” or “Goals.” Labels help you respect the money.\n\nStep 4: Increase slowly. Every month or every two months, increase the amount by a small step (5–10 EUR). You will barely feel it, but it compounds.\n\nStep 5: Protect the habit. If you get a bonus or extra income, automatically save a part of it too (for example 30%).\n\nCommon mistake: saving too much too fast and then quitting. A smaller automated amount that stays for 12 months beats a big amount that lasts 2 weeks.\n\nResult: automation turns saving into a default behavior, not a fight with yourself."
+    },
+    {
+      "id": "save-004",
+      "title": "Track spending for 7 days to find quick wins",
+      "readingTime": "6 min",
+      "tags": ["budget", "tracking", "habits"],
+      "body": "If saving feels impossible, start with 7 days of tracking. A short tracking period is less stressful than “tracking forever,” and it still reveals your biggest leaks.\n\nStep 1: For 7 days, write down every spend (even small coffee). Use notes, a spreadsheet, or any budget app.\n\nStep 2: At the end of the week, group spending into categories: food, transport, shopping, subscriptions, entertainment, and “random.”\n\nStep 3: Circle the top 3 categories where you spent more than expected. These are your quick wins.\n\nStep 4: Choose one small change for each.\n- Food: plan 2 simple meals at home.\n- Subscriptions: cancel 1 unused service.\n- Shopping: add a 24-hour waiting rule.\n\nStep 5: Repeat once per month. You don’t need daily tracking forever. Monthly check-ins are often enough.\n\nTip: Don’t judge yourself while tracking. Tracking is not punishment. It’s information.\n\nOutcome: you’ll usually find at least 50–150 EUR/month in expenses you can reduce without hurting your quality of life."
+    },
+    {
+      "id": "save-005",
+      "title": "Use a weekly money plan instead of a monthly one",
+      "readingTime": "6 min",
+      "tags": ["budget", "planning", "basics"],
+      "body": "Monthly budgets fail because life happens daily, not monthly. A weekly plan gives you faster control and fewer surprises.\n\nStep 1: Take your monthly take-home income and divide by 4.3 (average weeks per month). That’s your weekly spending capacity.\n\nStep 2: Subtract fixed bills that are not weekly (rent, insurance). Put that money aside first.\n\nStep 3: Create a weekly limit for variable spending (food, transport, entertainment).\n\nStep 4: Every week, check your remaining amount. If you overspent, adjust next week. If you underspent, move the extra to savings.\n\nWhy this works: a weekly plan gives you immediate feedback. You don’t wait until the end of the month to realize you have a problem.\n\nTip: If you have irregular income, base your weekly plan on the lowest realistic income month, and treat extra money as bonus for savings.\n\nResult: budgeting becomes simpler because you focus on “this week,” not “this entire month.”"
+    },
+    {
+      "id": "save-006",
+      "title": "Cancel or downgrade subscriptions in a clean way",
+      "readingTime": "5 min",
+      "tags": ["subscriptions", "budget", "quickwins"],
+      "body": "Subscriptions are easy to forget because they are small and automatic. But 5–10 small subscriptions can become a serious monthly cost.\n\nStep 1: List all subscriptions (streaming, apps, cloud storage, gym, delivery memberships). Check bank statements for the last 30 days.\n\nStep 2: Mark each one as:\n- “Must keep” (high value)\n- “Maybe” (rarely used)\n- “Cancel” (not used)\n\nStep 3: Cancel the “Cancel” group immediately. Don’t postpone it.\n\nStep 4: For “Maybe,” downgrade plans or pause for 1–2 months. Many services let you stop and return later.\n\nStep 5: Set a subscription review reminder every 3 months.\n\nTip: If a service is valuable, keep it—but choose one or two that truly matter. You don’t need everything.\n\nOutcome: people often save 20–80 EUR/month with zero lifestyle pain."
+    },
+    {
+      "id": "save-007",
+      "title": "Build a ‘no-loan’ buffer for predictable big expenses",
+      "readingTime": "6 min",
+      "tags": ["sinkingfund", "planning", "safety"],
+      "body": "Many ‘unexpected’ expenses are actually predictable: gifts, annual insurance, car repairs, school costs, holidays. When you don’t plan for them, you might use credit.\n\nSolution: create a sinking fund (a planned savings pot for known expenses).\n\nStep 1: List 5–10 expenses you know will happen in the next 12 months.\nExamples: car maintenance, dentist, birthdays, travel, yearly subscriptions.\n\nStep 2: Estimate the cost for each.\n\nStep 3: Divide each cost by the number of months left until you need it.\nExample: 300 EUR in 6 months → save 50 EUR/month.\n\nStep 4: Put that amount into a separate savings “bucket.”\n\nStep 5: When the expense happens, you pay it with your sinking fund, not credit.\n\nResult: fewer emergencies, fewer loans, and a calmer budget."
+    },
+    {
+      "id": "save-008",
+      "title": "Use the ‘24-hour rule’ to stop impulse purchases",
+      "readingTime": "4 min",
+      "tags": ["habits", "shopping", "mindset"],
+      "body": "Impulse purchases often happen because the decision is fast. The 24-hour rule slows the decision and gives your brain time to switch from emotion to logic.\n\nHow it works:\n- If you want something non-essential, wait 24 hours before buying.\n- For bigger items, wait 72 hours.\n\nStep 1: When you feel the urge, write the item down (or add to a wishlist).\n\nStep 2: Ask yourself after 24 hours:\n- Do I still want it?\n- Is it worth giving up one week of savings for it?\n- Is there a cheaper alternative?\n\nStep 3: If you still want it, buy it—but do it intentionally.\n\nTip: This method doesn’t ban spending. It turns spending into a choice.\n\nOutcome: most impulse wants disappear, and your savings grow without feeling like a strict diet."
+    },
+    {
+      "id": "save-009",
+      "title": "Reduce food costs without ‘eating boring’",
+      "readingTime": "7 min",
+      "tags": ["food", "budget", "quickwins"],
+      "body": "Food is one of the biggest monthly costs. The goal is not to eat less—it’s to waste less and plan better.\n\nStep 1: Choose 2–3 simple base meals for the week (pasta, rice bowls, soups, salads). Repeat is okay.\n\nStep 2: Make a short shopping list and buy only what you need for those meals.\n\nStep 3: Use a “snack rule”: buy snacks once per week, not daily.\n\nStep 4: Reduce delivery. Start with one small change: delivery only once per week.\n\nStep 5: Cook in batches. Cooking once can cover 2–3 meals.\n\nBonus tip: If you often throw away food, you’re paying for garbage. Plan smaller portions and use leftovers.\n\nResult: saving 50–200 EUR/month is common with a few realistic changes."
+    },
+    {
+      "id": "save-010",
+      "title": "Choose one savings goal and make it visible",
+      "readingTime": "5 min",
+      "tags": ["goals", "mindset", "habits"],
+      "body": "Saving is easier when you know what you’re saving for. A clear goal turns abstract numbers into motivation.\n\nStep 1: Pick one goal for the next 3–6 months. Example: emergency buffer to 1000 EUR, trip fund, or debt payoff.\n\nStep 2: Make it visible. Create a note on your phone, a simple tracker, or a progress bar in your app.\n\nStep 3: Connect your daily choices to the goal. Example: “If I skip delivery today, that’s +12 EUR to the goal.”\n\nStep 4: Celebrate progress, not perfection. Saving is a process.\n\nTip: Avoid too many goals at once. One strong goal beats five weak goals.\n\nOutcome: you’ll feel less frustration and more control, which helps you keep the habit."
+    },
+    {
+      "id": "save-011",
+      "title": "Use separate accounts: Spend, Bills, Savings",
+      "readingTime": "6 min",
+      "tags": ["systems", "budget", "safety"],
+      "body": "A simple money system can prevent overspending without constant tracking. The idea: separate your money by purpose.\n\nBasic setup:\n1) Spend account: daily purchases.\n2) Bills account: rent, utilities, debt minimums.\n3) Savings account: emergency and goals.\n\nStep 1: On payday, move money to Bills first.\nStep 2: Move money to Savings second.\nStep 3: The rest stays in Spend.\n\nWhy it works: your Spend account shows the real amount you can use. Bills and Savings are protected.\n\nTip: If you only want two accounts, combine Bills and Savings into one “Protected” account and keep Spend separate.\n\nResult: less stress, fewer surprises, and clearer decisions."
+    },
+    {
+      "id": "save-012",
+      "title": "Pay yourself first: the simplest saving habit",
+      "readingTime": "5 min",
+      "tags": ["habits", "basics", "automation"],
+      "body": "‘Pay yourself first’ means saving before you start spending. It is one of the most effective habits because it changes the order of your decisions.\n\nStep 1: Decide on a small amount you can save every month (even 10–25 EUR).\n\nStep 2: Save it immediately when money arrives.\n\nStep 3: Treat it like a bill. You don’t skip rent, so you don’t skip your savings.\n\nStep 4: Increase it when your income increases.\n\nTip: If you struggle with consistency, start with a weekly transfer instead of monthly.\n\nOutcome: your savings grow automatically, and you stop relying on “willpower” at the end of the month."
+    },
+    {
+      "id": "save-013",
+      "title": "Cut costs using ‘swap rules’ instead of bans",
+      "readingTime": "6 min",
+      "tags": ["quickwins", "mindset", "budget"],
+      "body": "Most budgets fail because they feel like punishment. Swap rules reduce spending without making you feel restricted.\n\nExamples of swap rules:\n- Coffee out → coffee at home on weekdays.\n- Delivery → cook 2 meals, then delivery once.\n- New clothes → second-hand or one-in-one-out.\n- Taxi → public transport when possible.\n\nStep 1: Identify one category you overspend on.\nStep 2: Choose one swap you can accept.\nStep 3: Track the savings for 2 weeks to see the impact.\n\nTip: You don’t need to eliminate fun. You need to control frequency.\n\nResult: your budget becomes flexible, and savings appear naturally."
+    },
+    {
+      "id": "save-014",
+      "title": "Use a ‘money date’ once a week (10 minutes)",
+      "readingTime": "6 min",
+      "tags": ["planning", "habits", "tracking"],
+      "body": "A weekly 10-minute ‘money date’ keeps you in control without daily tracking.\n\nStep 1: Pick one fixed day (Sunday evening works for many).\n\nStep 2: Check 3 things:\n- Current account balance\n- Bills coming this week\n- How much you can spend until next payday\n\nStep 3: Decide one small action:\n- Move extra money to savings\n- Reduce spending next week\n- Cancel a subscription\n\nStep 4: Keep notes. One line is enough.\n\nTip: Don’t make it emotional. This is a simple check-in, like brushing teeth but for money.\n\nOutcome: fewer surprises and faster progress on your goals."
+    },
+    {
+      "id": "save-015",
+      "title": "Plan debt and savings together (so you don’t burn out)",
+      "readingTime": "7 min",
+      "tags": ["debt", "planning", "safety"],
+      "body": "If you focus only on debt, you can feel exhausted. If you focus only on savings, debt can become expensive. A balanced approach is usually more sustainable.\n\nStep 1: Pay minimums on all debts first (always).\n\nStep 2: Build a small emergency buffer (even 300–500 EUR). This prevents new debt from surprises.\n\nStep 3: After that, split extra money: part to debt, part to savings.\nExample: 70% extra to debt, 30% to savings.\n\nStep 4: Use clear milestones:\n- Debt reduced by 10%\n- Emergency buffer reaches 1 month\n\nStep 5: Review every month. Adjust the split if your life changes.\n\nTip: Consistency is more important than perfect strategy. A plan you can follow for 6–12 months wins.\n\nOutcome: you reduce debt while still building security, which makes your financial progress calmer and more stable."
     }
   ]
 }
